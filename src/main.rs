@@ -67,7 +67,7 @@ fn main() {
 
         match token {
             '+' => res = a + b,
-            '-' => res = a - b,
+            '-' => res = b - a,
             '*' => res = a * b,
             '/' => res = b / a,
             _ => panic!("Couldnt process symbol {token}"),
