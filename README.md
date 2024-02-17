@@ -25,7 +25,7 @@ A simple rust app calculator. User is prompted to write a basic expression to ca
 First, you'll want to check out this repository
 
 ```shell
-git clone https://github.com/Hereugo/rusty_calculator.git
+git clone https://github.com/hereugo/rusty_calculator.git
 ```
 
 With cargo already installed, you can simply run:

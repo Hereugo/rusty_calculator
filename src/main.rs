@@ -82,5 +82,5 @@ fn main() {
 
     let result = stack.last().unwrap();
 
-    println!("{}", result); 
+    println!("{}", result);
 }
